@@ -33,9 +33,7 @@ nodes as demonstrated here.
 ![Alt text](https://docs.godotengine.org/en/stable/_images/key_concepts_character_nodes.webp)
 
 The character is made of the nodes **CharacterBody2D** node named "Player", a **Camera2D**, 
-**Sprite2D**, and a **CollisionShape2D**.
-
-Godot provides a set of base nodes to work with 2D,3D, user interface.
+**Sprite2D**, and a **CollisionShape2D**. Godot provides a set of base nodes to work with 2D,3D, user interface.
 These will be used for most things.
 
 ### The Scene Tree
