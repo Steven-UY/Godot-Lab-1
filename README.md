@@ -44,3 +44,18 @@ The scene tree is where all the game's scenes are organized.
 
 Nodes emit signals when some events occur. Allows you to automatically
 have nodes communicate without hardcoding it. 
+
+### Creating Instances
+
+You can create as many scenes as you'd like and save them as files with
+the .tscn extension which stands for "text scene".
+
+Lets say we create a ball scene. Once we create it the scene works as a
+blueprint allowing us to reproduce it in other scenes as many times as
+we'd like to. 
+
+![Alt text](https://docs.godotengine.org/en/stable/_images/instancing_ball_scene.webp)
+
+We instance the ball many times in different scene.
+
+![Alt text](https://docs.godotengine.org/en/stable/_images/instancing_ball_scene.webp)
