@@ -1,7 +1,7 @@
 # Godot-Lab-1
 
 - [X] Create main scene
-- [] 2 Different Sprites
+- [ ] 2 Different Sprites
 - [] Several instances of another scene
 - [] Create a github repository with the godot project inside
 and a README file where you describe the project and write out
