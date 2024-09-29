@@ -59,3 +59,14 @@ we'd like to.
 We instance the ball many times in different scene.
 
 ![Alt text](https://docs.godotengine.org/en/stable/_images/instancing_ball_scene.webp)
+
+### 2D Sprite Animation
+
+Download the sprite animation pack and create scene like so
+
+![Alt text](https://docs.godotengine.org/en/stable/_images/2d_animation_tree1.webp)
+
+Select the SpriteFrames property in the AnimatedSprite2D node, click new SpriteFrames.
+A panel should show up below where you can put all the images from the sprite asset pack.
+
+![Alt text](https://docs.godotengine.org/en/stable/_images/2d_animation_spriteframes_done.webp)
