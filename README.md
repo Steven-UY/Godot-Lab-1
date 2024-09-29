@@ -1,6 +1,6 @@
 # Godot-Lab-1
 
-- [] Create main scene
+- [X] Create main scene
 - [] 2 Different Sprites
 - [] Several instances of another scene
 - [] Create a github repository with the godot project inside
@@ -19,7 +19,7 @@ of like a class. What a scene can be is very flexible.
 You are able to nest scenes e.g you can put a character in a level
 and drag and drop a scene as a child of it
 
-![Alt text](https://docs.godotengine.org/en/stable/_images/key_concepts_scene_example.png)
+![Alt text](https://docs.godotengine.org/en/stable/_images/key_concepts_scene_example.webp)
 
 ### Nodes
 
