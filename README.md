@@ -1,6 +1,6 @@
 # Godot-Lab-1
 
-- [ ] Create main scene
+- [X] Create main scene
 - [ ] 2 Different Sprites
 - [ ] Several instances of another scene
 - [ ] Create a github repository with the godot project inside
