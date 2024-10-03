@@ -1,10 +1,10 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1727715442
-Ani_sprite.tscn::PackedScene::4915573474904803667::1727641782::0::1::::<><>::uid://cgpltqkuwbgwd::::res://2d_sprite_animation_assets/run_animation/run-1.png<>uid://cfj4vulif1ywm::::res://2d_sprite_animation_assets/run_animation/run-2.png<>uid://ch7guqaqcmy6g::::res://2d_sprite_animation_assets/run_animation/run-3.png<>uid://drq4w4lydug86::::res://2d_sprite_animation_assets/run_animation/run-4.png<>uid://cjlouq3oi5xby::::res://2d_sprite_animation_assets/run_animation/run-5.png<>uid://bihclsbmlkjjv::::res://2d_sprite_animation_assets/run_animation/run-6.png<>uid://bwoust2y8dpq4::::res://2d_sprite_animation_assets/run_animation/run-7.png<>uid://ctloqrnbcnrbs::::res://2d_sprite_animation_assets/run_animation/run-8.png
+::res://::1727751007
+Ani_sprite.tscn::PackedScene::4915573474904803667::1727716035::0::1::::<><>::uid://cgpltqkuwbgwd::::res://Assets/2d_sprite_animation_assets/run_animation/run-1.png<>uid://cfj4vulif1ywm::::res://Assets/2d_sprite_animation_assets/run_animation/run-2.png<>uid://ch7guqaqcmy6g::::res://Assets/2d_sprite_animation_assets/run_animation/run-3.png<>uid://drq4w4lydug86::::res://Assets/2d_sprite_animation_assets/run_animation/run-4.png<>uid://cjlouq3oi5xby::::res://Assets/2d_sprite_animation_assets/run_animation/run-5.png<>uid://bihclsbmlkjjv::::res://Assets/2d_sprite_animation_assets/run_animation/run-6.png<>uid://bwoust2y8dpq4::::res://Assets/2d_sprite_animation_assets/run_animation/run-7.png<>uid://ctloqrnbcnrbs::::res://Assets/2d_sprite_animation_assets/run_animation/run-8.png
 icon.svg::CompressedTexture2D::6698572781017834419::1727628037::1727640936::1::::<><>::
-main.tscn::PackedScene::3408345689008476662::1727638733::0::1::::<><>::
-README.md::TextFile::-1::1727642419::0::1::::<><>::
-Sprite_2.tscn::PackedScene::116575590361361264::1727646734::0::1::::<><>::
+main.tscn::PackedScene::3408345689008476662::1727716241::0::1::::<><>::uid://ccbe1ofsflhap::::res://Ani_sprite.tscn<>uid://bwp8ojr508oi::::res://Mario.tscn
+Mario.tscn::PackedScene::116575590361361264::1727715905::0::1::::<><>::uid://coe1va75ee3ie::::res://Assets/mario.png
+README.md::TextFile::-1::1727716106::0::1::::<><>::
 ::res://Assets/::1727715155
 mario.png::CompressedTexture2D::5765358883621164708::1727715051::1727715155::1::::<><>::
 ::res://Assets/2d_sprite_animation_assets/::1722317234
