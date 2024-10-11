@@ -1,7 +1,13 @@
-[gd_scene load_steps=2 format=3 uid="uid://bota7quinhhgg"]
+[gd_scene load_steps=3 format=3 uid="uid://bota7quinhhgg"]
 
+[ext_resource type="PackedScene" uid="uid://ccbe1ofsflhap" path="res://Ani_sprite.tscn" id="1_f26t6"]
 [ext_resource type="PackedScene" uid="uid://bwp8ojr508oi" path="res://Mario.tscn" id="2_3vpnb"]
 
 [node name="Main" type="Node2D"]
+position = Vector2(536, 614)
+
+[node name="Sprite" parent="." instance=ExtResource("1_f26t6")]
+position = Vector2(281, -243)
 
 [node name="Sprite2" parent="." instance=ExtResource("2_3vpnb")]
+position = Vector2(4458, 920)
